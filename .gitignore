@@ -1,0 +1,17 @@
+.classpath
+*.class
+.project
+.settings/
+target/
+logs/
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/
+work/
+output/
+.DS_Store
+src/scala/join_all_feature/target/
+dependency-reduced-pom.xml
+src/python/example_python_task
